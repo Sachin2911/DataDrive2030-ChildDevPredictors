@@ -1,4 +1,4 @@
-# DataDrive2030-ChildDevPredictors
+# DataDrive2030 Early Learning Predictors Challenge
 
 The Thrive by Five Index (2021) found that less than half of children attending an early learning programme (such as a preschool or creche) in South Africa start school with the right early learning foundation. There are many factors that influence whether a child Thrives by Five, such as access to a quality early learning programme, as well as poverty, gender, malnutrition, and emotional well-being. Children without a good foundation struggle to keep up at school and have a major learning disadvantage.
 
